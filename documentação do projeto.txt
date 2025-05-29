@@ -1,0 +1,11 @@
+Ideação:
+o layout foi baseado numa marca de roupa que se chama Zenith, o site
+é bem interativo e tem uma pegada mais "clean" com um carrosel apresentando
+um pouco da proposta da marca e com algumas peças da marca, na tela principal
+tendo uma aba destaques para apresentar um pouco de cada coisa, tambem
+a um dropdown chamado PRODUTO que atinge todos os tipos de peça que a marca
+trabalha, não ouve tante inserção de imagens por se tratar de itens reais
+da marca que ainda está começando, adicionado uma news letter, para contato
+e tambem uma sessão só dedicada a contatos.Coloquei bastante observações 
+para o codigo ficar bem organizado está tambem bem semântico e com todos os 
+requesitos,espero que goste!
